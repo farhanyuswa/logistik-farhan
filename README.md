@@ -1,4 +1,3 @@
-# logistik-farhan
 
 # Logistik Farhan
 
